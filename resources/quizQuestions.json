@@ -1,0 +1,108 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "optionA": "Berlin",
+      "optionB": "Madrid",
+      "optionC": "Paris",
+      "optionD": "Rome"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "optionA": "3",
+      "optionB": "4",
+      "optionC": "5",
+      "optionD": "6"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "optionA": "Harper Lee",
+      "optionB": "J.K. Rowling",
+      "optionC": "Ernest Hemingway",
+      "optionD": "Mark Twain"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "optionA": "O2",
+      "optionB": "H2O",
+      "optionC": "CO2",
+      "optionD": "NaCl"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "optionA": "Earth",
+      "optionB": "Mars",
+      "optionC": "Jupiter",
+      "optionD": "Saturn"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "optionA": "6",
+      "optionB": "7",
+      "optionC": "8",
+      "optionD": "9"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "optionA": "Vincent van Gogh",
+      "optionB": "Pablo Picasso",
+      "optionC": "Leonardo da Vinci",
+      "optionD": "Claude Monet"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "optionA": "Seoul",
+      "optionB": "Beijing",
+      "optionC": "Tokyo",
+      "optionD": "Bangkok"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "optionA": "0",
+      "optionB": "1",
+      "optionC": "2",
+      "optionD": "3"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "optionA": "Isaac Newton",
+      "optionB": "Albert Einstein",
+      "optionC": "Galileo Galilei",
+      "optionD": "Nikola Tesla"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "optionA": "Au",
+      "optionB": "Ag",
+      "optionC": "Pb",
+      "optionD": "Pt"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "optionA": "Emily Brontë",
+      "optionB": "Jane Austen",
+      "optionC": "Charles Dickens",
+      "optionD": "George Eliot"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "optionA": "Amazon",
+      "optionB": "Nile",
+      "optionC": "Yangtze",
+      "optionD": "Mississippi"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "optionA": "K2",
+      "optionB": "Kangchenjunga",
+      "optionC": "Mount Everest",
+      "optionD": "Lhotse"
+    },
+    {
+      "question": "Who is known as the Father of Computers?",
+      "optionA": "Charles Babbage",
+      "optionB": "Alan Turing",
+      "optionC": "Bill Gates",
+      "optionD": "Steve Jobs"
+    }
+  ]
+  

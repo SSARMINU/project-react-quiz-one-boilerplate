@@ -1,0 +1,49 @@
+.question {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .option-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+  }
+  
+  .option {
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .option:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .previous {
+    background-color: #f0ad4e;
+  }
+  
+  .next {
+    background-color: #5bc0de;
+  }
+  
+  .quit {
+    background-color: #d9534f;
+  }
+  
+  .previous:hover, .next:hover, .quit:hover {
+    opacity: 0.8;
+  }
+  
