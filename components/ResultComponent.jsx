@@ -1,10 +1,13 @@
 import React from 'react';
 
-function ResultComponent() {
+function ResultComponent({ totalQuestions, attemptedQuestions, correctAnswers, wrongAnswers }) {
   return (
-    <div>
-      <h1>Your Results</h1>
-      <p>Congratulations! You have completed the quiz.</p>
+    <div className="result">
+      <h2>Quiz Results</h2>
+      <p>Total number of questions: {totalQuestions}</p>
+      <p>Number of attempted questions: {attemptedQuestions}</p>
+      <p>Number of correct answers: {correctAnswers}</p>
+      <p>Number of wrong answers: {wrongAnswers}</p>
     </div>
   );
 }
